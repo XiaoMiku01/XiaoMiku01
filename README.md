@@ -19,4 +19,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMiku01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- waka-box start -->
- <!-- waka-box end -->
+#### <a href="https://gist.github.com/d1ad2525fd7f598feab812ce5e13a736" target="_blank">📊 Weekly development breakdown</a>
+```text
+Python          🕓 4h35m ████████████▏░░░░░░░░░░ 53.2%
+JavaScript      🕓 2h16m ██████░░░░░░░░░░░░░░░░░ 26.4%
+Markdown        🕓 56m   ██▌░░░░░░░░░░░░░░░░░░░░ 10.9%
+Java            🕓 18m   ▊░░░░░░░░░░░░░░░░░░░░░░  3.6%
+YAML            🕓 12m   ▌░░░░░░░░░░░░░░░░░░░░░░  2.5%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
