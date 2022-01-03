@@ -16,4 +16,5 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://code.visualstudio.com/)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoMiku01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMiku01&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMiku01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+<script src="https://gist.github.com/XiaoMiku01/d1ad2525fd7f598feab812ce5e13a736.js"></script>
