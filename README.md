@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaoMiku01&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaoMiku01" />
 </a>  
 
 ![:name](https://count.getloli.com/get/@:XiaoMiku01)  
