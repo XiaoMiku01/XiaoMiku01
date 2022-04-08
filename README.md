@@ -15,9 +15,10 @@
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)](https://www.mysql.com/)  
+[![](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=fff)](https://www.postgresql.org/)  
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://code.visualstudio.com/)  
+[![](https://img.shields.io/badge/IDE-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)  
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/d1ad2525fd7f598feab812ce5e13a736" target="_blank">📊 Weekly development breakdown</a>
