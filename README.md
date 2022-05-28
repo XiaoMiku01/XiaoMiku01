@@ -3,7 +3,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaoMiku01" />
 </a>  
 
-![:name](https://count.getloli.com/get/@:XiaoMiku01)  
+![:name](https://count.getloli.com/get/@:XiaoMiku01?theme=asoul)  
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Golang-007D9C?style=flat-square&logo=go&logoColor=fff)](https://golang.google.cn/)
