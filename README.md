@@ -24,7 +24,8 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/d1ad2525fd7f598feab812ce5e13a736" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Nginx configuration file 🕓 24m ████████▌░░░░░░░ 53.4%
+Go                       🕓 21m ███████▍░░░░░░░░ 46.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
