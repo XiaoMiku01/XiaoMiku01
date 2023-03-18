@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaoMiku01&show_icons=true&locale=cn" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaoMiku01&show_icons=true" />
 </a>  
 
-![:name](https://count.getloli.com/get/@:XiaoMiku01?theme=asoul)  
+![:name](https://count.getloli.com/get/@:XiaoMiku01)  
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Golang-007D9C?style=flat-square&logo=go&logoColor=fff)](https://golang.google.cn/)
